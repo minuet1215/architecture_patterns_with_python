@@ -1,0 +1,1 @@
+https://indigo-pony-375.notion.site/Architecture-Patterns-with-Python-e6990426ffab4efb92bfacdd687568fe
